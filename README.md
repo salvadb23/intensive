@@ -11,3 +11,5 @@ was it was difficult to add information without making the page look cluttered s
 ## Techniques Used
 
 I used Flexbox for the entire layout, I had used Grid previously but hadnt really built aything with Flexbox and thought this would be a great time to try. It offered me a lot of flexibility and I feel more confident in using flexbox now. I struggled getting the site to be somewhat responsive, I managed to get it to be used on about 2 screen sizes but getting it to work on mobile is more difficult then I thought.
+
+Link: https://salvadb23.github.io/intensive/
