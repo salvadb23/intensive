@@ -108,7 +108,7 @@ i {
 
 input {
 	border: none;
-	margin-bottom: 30px;
+	margin-bottom: 0px;
 	background-color: #fbfbfb;
 	border-bottom: solid black 1px;
 	margin-top: 30px;
@@ -131,6 +131,11 @@ input:focus {
 		width: 300px;
 		padding: 20px;
 	}
+
+	.mainphoto{
+		height: none;
+	}
+	
 }
 
 @media only screen and (max-width: 1100){
@@ -148,4 +153,18 @@ button {
 	margin: auto;
 }
 
+.coming {
+	position: absolute;
+	top: 40%;
+	left: 37%;
+	font-family: Open Sans;
+	font-size: 50px;
+}
+
+.submit {
+	border: solid black 1px;
+	font-size: 12px;
+	margin-top: 30px;
+	padding: 10px;
+}
 
